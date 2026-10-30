@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "SYNC_CALLBACK_URL": "http://localhost:7071/callback",
+    "WEBSUB_HUB_URL": "http://localhost:7071/",
+    "WEBSUB_ROOT_TOPICS": "https://lqdev.me/.well-known/following.opml",
+    "WEBSUB_ALLOWED_INCLUDE_HOSTS": "lqdev.me,www.lqdev.me,luisquintanilla.me,www.luisquintanilla.me",
+    "WEBSUB_MAX_INCLUDE_DEPTH": "3",
+    "WEBSUB_LEASE_SECONDS": "2592000",
+    "NEWSBLUR_USERNAME": "",
+    "NEWSBLUR_PASSWORD": "",
+    "SYNC_DRY_RUN": "true"
+  }
+}

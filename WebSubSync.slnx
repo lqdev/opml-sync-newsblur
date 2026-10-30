@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/OpmlSyncNewsBlur/OpmlSyncNewsBlur.fsproj" />
+  <Project Path="tests/OpmlSyncNewsBlur.Tests/OpmlSyncNewsBlur.Tests.fsproj" />
+</Solution>

@@ -1,0 +1,9 @@
+.azure/
+**/bin/
+**/obj/
+**/TestResults/
+**/local.settings.json
+infra/local.parameters.json
+.env
+.env.*
+!.env.example
